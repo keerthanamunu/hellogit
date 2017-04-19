@@ -12,7 +12,7 @@ public class IPLocationFinder {
 		if(args.length!=1)
 		{
 			System.out.println("No args");
-		}//done with if
+		}//done with if statement in the comments
 		else
 		{
 			String ipAddress=args[0];
